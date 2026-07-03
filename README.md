@@ -10,7 +10,7 @@
     class KevinMoreno:
     def __init__(self):
         self.nombre     = "Kevin Felipe Moreno Ramírez"
-        self.edad       = 20
+        self.edad       = 21
         self.ubicacion  = "Colombia 🇨🇴"
         self.universidad = "Corporación Universitaria Minuto de Dios"
         self.carrera    = "Ingeniería de Sistemas"
